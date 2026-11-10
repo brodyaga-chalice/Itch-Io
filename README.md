@@ -219,4 +219,4 @@ itch.io is offered as a complete free version with all features and updates incl
 Don't miss out on the incredible world of indie games! **Download itch.io free today and start your gaming adventure!**
 
 ---
-**Last updated:** 2026-11-10 07:50:38 UTC
+**Last updated:** 2026-11-10 15:52:32 UTC
